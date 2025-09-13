@@ -1,30 +1,55 @@
-### Olá, eu sou o Luiz Felipe :)
-Atualmente sou analista de testes, mas me graduei recentemente em ciência de dados! Estou ampliando meu conhecimento atravez de cursos complementares que vão de análise de dados até inteligência artificial de modo geral. 
+# 👋 Olá, eu sou o Luiz Felipe  
 
--  Apaixonado por **corrida**, **pedalar**, **trilhas** e tudo o que envolva a natureza.
--  Também sou amante de animes e de jogos (se você joga, me chama!).
--  Atualmente mais focado em aprender:
-	- Análise de dados com python
-	- Estatística
-	- Machine learning
-	- Deep learning
-	- Docker e k8s
+🎯 **Objetivo**: Cientista de Dados Júnior | Foco em análise de dados, machine learning e soluções práticas de negócios.  
 
-<div style="display: inline">
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />&nbsp;&nbsp;
-</div>
+---
 
-##
+## 🚀 Sobre mim  
+- 🎓 Formado em **Ciência de Dados**  
+- 💻 Experiência anterior como **Analista de Testes (QA)**, com forte vivência em **bancos de dados e SQL**  
+- 🏆 Vencedor do **Next 2024 (1º lugar)** com o projeto *Feedback Customer Hub*  
+- 📊 Atualmente em **transição de carreira para Data Science**, desenvolvendo projetos práticos em **NLP, Machine Learning e MLOps**  
+- 🤖 Interesses: **Inteligência Artificial, NLP, Geração de Insights e Automação de Processos**  
 
-### Você também me encontra em:
-&nbsp;<a href="www.linkedin.com/in/luiz-felipe-piumbini-366768115">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/luiizfellipee/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
+---
 
-#### Estou aberto a novas amizades, vamos trocar idéias, conhecimento! Me chame no linkedin ou no insta!
+## 🛠️ Habilidades Técnicas  
+- **Linguagens:** Python, SQL  
+- **Bibliotecas de Dados:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **NLP & IA:** NLTK, SpaCy, HuggingFace Transformers  
+- **Bancos de Dados:** PostgreSQL, MySQL  
+- **Ferramentas:** Git/GitHub, Jupyter Notebook, Docker  
+- **Conceitos:** Estatística, Engenharia de Dados, Testes de Software  
+
+---
+
+## 📂 Projeto em Destaque  
+
+### 🔹 Feedback Customer Hub  
+🏆 **1º lugar no Next 2024**  
+📌 **Descrição:** Sistema inovador de **transcrição automática de áudios de ligações** voltadas para pesquisas de NPS (Net Promoter Score).  
+
+🔧 **Objetivo:**  
+- Garantir transcrições de alta qualidade em português  
+- Permitir a aplicação de **NLP** para extrair insights valiosos  
+- Automatizar o diagnóstico da satisfação dos clientes  
+
+📊 **Desafios técnicos resolvidos:**  
+- Ruídos nos áudios  
+- Sotaques regionais e gírias locais  
+- Limitações das ferramentas de transcrição em português  
+
+🚀 **Impacto:**  
+- Criação de um pipeline de **Speech-to-Text + NLP**  
+- Medição da "temperatura" e "pressão" da insatisfação dos clientes  
+- Priorização de ações corretivas de forma eficiente  
+
+---
+
+## 🌍 Onde me encontrar  
+- 💼 [LinkedIn](www.linkedin.com/in/luiz-felipe-piumbini-366768115)  
+- 📧 **Email:** luizfelipepiumbini@gmail.com  
+
+---
+
+💡 **Aberto a oportunidades como Cientista de Dados Júnior** | Sempre aprendendo, sempre construindo 🚀
