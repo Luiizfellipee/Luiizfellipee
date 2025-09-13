@@ -8,7 +8,7 @@
 - 🎓 Formado em **Ciência de Dados**  
 - 💻 Experiência anterior como **Analista de Testes (QA)**, com forte vivência em **bancos de dados e SQL**  
 - 🏆 Vencedor do **Next 2024 (1º lugar)** com o projeto *Feedback Customer Hub*  
-- 📊 Atualmente em **transição de carreira para Data Science**, desenvolvendo projetos práticos em **NLP, Machine Learning e MLOps**  
+- 📊 Atualmente em **transição de carreira para Data Science**, buscando uma oportunidade para adquirir experiência real em **Análise de dados, Machine Learning e MLops**  
 - 🤖 Interesses: **Inteligência Artificial, NLP, Geração de Insights e Automação de Processos**  
 
 ---
@@ -16,10 +16,8 @@
 ## 🛠️ Habilidades Técnicas  
 - **Linguagens:** Python, SQL  
 - **Bibliotecas de Dados:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **NLP & IA:** NLTK, SpaCy, HuggingFace Transformers  
-- **Bancos de Dados:** PostgreSQL, MySQL  
-- **Ferramentas:** Git/GitHub, Jupyter Notebook, Docker  
-- **Conceitos:** Estatística, Engenharia de Dados, Testes de Software  
+- **Bancos de Dados:** PostgreSQL, Oracle  
+- **Ferramentas:** Git/GitHub, Jupyter Notebook, Jira, Trello, Sourcetree 
 
 ---
 
