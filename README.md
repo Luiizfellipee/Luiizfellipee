@@ -1,6 +1,6 @@
 # 🚀 Luiz Felipe Piumbini
 
-### **Cientista de Dados | Especialista em Qualidade de Dados | Python & SQL**
+### **Cientista de Dados | Especialista em Qualidade de Dados | Python, SQL & Machine Learning**
 
 Sou um profissional de tecnologia apaixonado por transformar dados brutos em decisões inteligentes. Com formação em **Ciência de Dados pela FIAP** e uma trajetória sólida em **QA**, desenvolvi uma visão única sobre o ciclo de vida do dado: entendo a importância da qualidade e da validação rigorosa para que qualquer análise ou modelo de IA seja confiável.
 
