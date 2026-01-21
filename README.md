@@ -1,53 +1,68 @@
-# 👋 Olá, eu sou o Luiz Felipe  
+---
 
-🎯 **Objetivo**: Cientista de Dados Júnior | Foco em análise de dados, machine learning e soluções práticas de negócios.  
+# 🚀 Luiz Felipe Piumbini
+
+### **Cientista de Dados | Especialista em Qualidade de Dados | Python, SQL & Machine Learning**
+
+Sou um profissional de tecnologia apaixonado por transformar dados brutos em decisões inteligentes. Com formação em **Ciência de Dados pela FIAP** e uma trajetória sólida em **QA**, desenvolvi uma visão única sobre o ciclo de vida do dado: entendo que a confiabilidade de qualquer modelo de IA depende de uma validação rigorosa e qualidade impecável.
+
+Atualmente, trabalho como Analista de QA, onde utilizo SQL para auditar a consistência de informações e validar integrações complexas, garantindo a integridade dos dados de ponta a ponta.
 
 ---
 
-## 🚀 Sobre mim  
-- 🎓 Formado em **Ciência de Dados**  
-- 💻 Experiência anterior como **Analista de Testes (QA)**, com forte vivência em **bancos de dados e SQL**  
-- 🏆 Vencedor do **Next 2024 (1º lugar)** com o projeto *Feedback Customer Hub*  
-- 📊 Atualmente em **transição de carreira para Data Science**, buscando uma oportunidade para adquirir experiência real em **Análise de dados, Machine Learning e MLops**  
-- 🤖 Interesses: **Inteligência Artificial, NLP, Geração de Insights e Automação de Processos**  
+### 🛠️ Tecnologias e Ferramentas
+
+* 
+**Linguagens e Análise:** Python (Pandas, NumPy, Matplotlib, Seaborn) para limpeza, manipulação e visualização de dados.
+
+
+* 
+**Bancos de Dados:** SQL (PostgreSQL e MySQL) para extração, consultas complexas e monitoramento.
+
+
+* 
+**Machine Learning:** Experiência com modelos de ML, Deep Learning e processamento de áudio (Audio-to-Text).
+
+
+* 
+**Qualidade e Processos:** Mentalidade QA aplicada a dados, testes de consistência, Git (Sourcetree), Scrum e Jira.
+
+
 
 ---
 
-## 🛠️ Habilidades Técnicas  
-- **Linguagens:** Python, SQL  
-- **Bibliotecas de Dados:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Bancos de Dados:** PostgreSQL, Oracle  
-- **Ferramentas:** Git/GitHub, Jupyter Notebook, Jira, Trello, Sourcetree 
+### 🏆 Conquistas e Projetos em Destaque
+
+* 
+**Enterprise Challenge (NPS):** Vencedor do desafio "Audio-To-Text Challenge" realizado pela FIAP em parceria com a **TOTVS** e **Microsoft**.
+
+
+* 
+**Transição para Dados:** Projetos práticos focados em otimização de processos, geração de insights e garantia de integridade da informação.
+
+
 
 ---
 
-## 📂 Projeto em Destaque  
+### 📊 Atuação Atual
 
-### 🔹 Feedback Customer Hub  
-🏆 **1º lugar no Next 2024**  
-📌 **Descrição:** Sistema inovador de **transcrição automática de áudios de ligações** voltadas para pesquisas de NPS (Net Promoter Score).  
+* 
+**Analista de QA / Qualidade de Dados:** Responsável por garantir a confiabilidade de fluxos de dados através de consultas técnicas e diagnósticos de anomalias em produção.
 
-🔧 **Objetivo:**  
-- Garantir transcrições de alta qualidade em português  
-- Permitir a aplicação de **NLP** para extrair insights valiosos  
-- Automatizar o diagnóstico da satisfação dos clientes  
 
-📊 **Desafios técnicos resolvidos:**  
-- Ruídos nos áudios  
-- Sotaques regionais e gírias locais  
-- Limitações das ferramentas de transcrição em português  
-
-🚀 **Impacto:**  
-- Criação de um pipeline de **Speech-to-Text + NLP**  
-- Medição da "temperatura" e "pressão" da insatisfação dos clientes  
-- Priorização de ações corretivas de forma eficiente  
 
 ---
 
-## 🌍 Onde me encontrar  
-- 💼 [LinkedIn](www.linkedin.com/in/luiz-felipe-piumbini-366768115)  
-- 📧 **Email:** luizfelipepiumbini@gmail.com  
+### 📫 Vamos nos conectar?
+
+* 
+**LinkedIn:** [linkedin.com/in/luiz-felipe-piumbini](https://www.google.com/search?q=https://www.linkedin.com/in/luiz-felipe-piumbini-366768115) 
+
+
+
 
 ---
 
-💡 **Aberto a oportunidades como Cientista de Dados Júnior** | Sempre aprendendo, sempre construindo 🚀
+### Próximos Passos Sugeridos:
+
+Gostaria que eu escrevesse as descrições detalhadas (em inglês ou português) para os repositórios de projetos que você pretende subir agora para o seu GitHub?
