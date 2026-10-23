@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="230" viewBox="0 0 800 230" role="img" aria-labelledby="title desc">
+  <title id="title">BH Traffic Intelligence</title>
+  <desc id="desc">Public traffic accident data in Belo Horizonte. Four source collections inventoried. M0 foundation in progress; Python and SQL are planned, with no pipeline or dashboard yet.</desc>
+  <rect width="800" height="230" rx="16" fill="#111827"/>
+  <rect x="1" y="1" width="798" height="228" rx="15" fill="none" stroke="#263449" stroke-width="2"/>
+  <path d="M0 15a15 15 0 0 1 15-15h4v230h-4a15 15 0 0 1-15-15z" fill="#38BDF8"/>
+  <text x="42" y="39" fill="#38BDF8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2">02 / M0 · FOUNDATION AND INVENTORY</text>
+  <text x="40" y="87" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">BH Traffic Intelligence</text>
+  <text x="42" y="123" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="22">Investigate public traffic accident data</text>
+  <text x="42" y="151" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="22">with sources and limitations documented.</text>
+  <path d="M42 174h716" stroke="#263449" stroke-width="2"/>
+  <text x="42" y="204" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="19">Verified: source inventory  /  Planned: Python + SQL</text>
+  <rect x="613" y="51" width="142" height="117" rx="9" fill="#0B1220" stroke="#263449"/>
+  <text x="627" y="75" fill="#38BDF8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1">4 SOURCES</text>
+  <circle cx="647" cy="104" r="14" fill="none" stroke="#38BDF8" stroke-width="2"/>
+  <circle cx="718" cy="104" r="14" fill="none" stroke="#38BDF8" stroke-width="2"/>
+  <circle cx="647" cy="143" r="14" fill="none" stroke="#38BDF8" stroke-width="2"/>
+  <circle cx="718" cy="143" r="14" fill="none" stroke="#38BDF8" stroke-width="2"/>
+  <text x="639" y="109" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="12">01</text>
+  <text x="710" y="109" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="12">02</text>
+  <text x="639" y="148" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="12">03</text>
+  <text x="710" y="148" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="12">04</text>
+</svg>

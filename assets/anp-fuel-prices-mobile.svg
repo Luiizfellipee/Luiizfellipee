@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="195" viewBox="0 0 340 195" role="img" aria-labelledby="title desc">
+  <title id="title">ANP Fuel Prices</title>
+  <desc id="desc">Fuel price analysis in Phase 0. Python, DuckDB, and pandas planned; no findings yet.</desc>
+  <rect width="340" height="195" rx="14" fill="#111827"/>
+  <rect x="1" y="1" width="338" height="193" rx="13" fill="none" stroke="#263449" stroke-width="2"/>
+  <path d="M0 14A14 14 0 0 1 14 0h4v195h-4A14 14 0 0 1 0 181z" fill="#38BDF8"/>
+  <text x="32" y="30" fill="#38BDF8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1">03 / PHASE 0 SETUP</text>
+  <text x="31" y="69" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">ANP Fuel Prices</text>
+  <text x="32" y="99" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="15">Explore surveyed fuel prices across</text>
+  <text x="32" y="120" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="15">time, products and locations.</text>
+  <path d="M32 143h278" stroke="#263449" stroke-width="2"/>
+  <text x="32" y="170" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="13">Planned: Python / DuckDB / pandas</text>
+</svg>

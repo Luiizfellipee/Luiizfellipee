@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="195" viewBox="0 0 340 195" role="img" aria-labelledby="title desc">
+  <title id="title">BH Traffic Intelligence</title>
+  <desc id="desc">Traffic accident data project in M0. Four source collections inventoried; Python and SQL planned. No pipeline or dashboard yet.</desc>
+  <rect width="340" height="195" rx="14" fill="#111827"/>
+  <rect x="1" y="1" width="338" height="193" rx="13" fill="none" stroke="#263449" stroke-width="2"/>
+  <path d="M0 14A14 14 0 0 1 14 0h4v195h-4A14 14 0 0 1 0 181z" fill="#38BDF8"/>
+  <text x="32" y="30" fill="#38BDF8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1">02 / M0 FOUNDATION</text>
+  <text x="31" y="65" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">BH Traffic Intelligence</text>
+  <text x="32" y="97" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="15">Investigate traffic accident records</text>
+  <text x="32" y="118" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="15">with documented data sources.</text>
+  <path d="M32 143h278" stroke="#263449" stroke-width="2"/>
+  <text x="32" y="169" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="13">Inventory verified / Python + SQL planned</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="230" viewBox="0 0 800 230" role="img" aria-labelledby="title desc">
+  <title id="title">auto_vagas</title>
+  <desc id="desc">A Python job monitor with public data sources, snapshot comparison, tests, and Discord alerts documented. Code is published.</desc>
+  <rect width="800" height="230" rx="16" fill="#111827"/>
+  <rect x="1" y="1" width="798" height="228" rx="15" fill="none" stroke="#263449" stroke-width="2"/>
+  <path d="M0 15a15 15 0 0 1 15-15h4v230h-4a15 15 0 0 1-15-15z" fill="#2DD4BF"/>
+  <text x="42" y="39" fill="#2DD4BF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2">01 / CODE AND TESTS PUBLISHED</text>
+  <text x="40" y="87" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700">auto_vagas</text>
+  <text x="42" y="123" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="22">Track public data jobs and compare listings</text>
+  <text x="42" y="151" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="22">across snapshots before sending alerts.</text>
+  <path d="M42 174h716" stroke="#263449" stroke-width="2"/>
+  <text x="42" y="204" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="19">Python  /  GitHub Actions  /  Discord</text>
+  <path d="M684 82v11M684 125v11" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  <rect x="613" y="51" width="142" height="31" rx="7" fill="#0B1220" stroke="#263449"/>
+  <rect x="613" y="94" width="142" height="31" rx="7" fill="#0B1220" stroke="#263449"/>
+  <rect x="613" y="137" width="142" height="31" rx="7" fill="#0B1220" stroke="#263449"/>
+  <circle cx="628" cy="66" r="4" fill="#2DD4BF"/>
+  <circle cx="628" cy="109" r="4" fill="#2DD4BF"/>
+  <circle cx="628" cy="152" r="4" fill="#2DD4BF"/>
+  <text x="641" y="71" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="14">COLLECT</text>
+  <text x="641" y="114" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="14">COMPARE</text>
+  <text x="641" y="157" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="14">ALERT</text>
+</svg>

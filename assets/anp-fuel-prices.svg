@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="230" viewBox="0 0 800 230" role="img" aria-labelledby="title desc">
+  <title id="title">ANP Fuel Prices</title>
+  <desc id="desc">A planned reproducible analysis of surveyed fuel prices by time, product, and location. Phase 0 setup; Python, DuckDB, and pandas are planned.</desc>
+  <rect width="800" height="230" rx="16" fill="#111827"/>
+  <rect x="1" y="1" width="798" height="228" rx="15" fill="none" stroke="#263449" stroke-width="2"/>
+  <path d="M0 15a15 15 0 0 1 15-15h4v230h-4a15 15 0 0 1-15-15z" fill="#38BDF8"/>
+  <text x="42" y="39" fill="#38BDF8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2">03 / PHASE 0 · PROJECT SETUP</text>
+  <text x="40" y="87" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700">ANP Fuel Prices</text>
+  <text x="42" y="123" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="22">Explore surveyed fuel prices across time,</text>
+  <text x="42" y="151" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="22">products and locations in Brazil.</text>
+  <path d="M42 174h716" stroke="#263449" stroke-width="2"/>
+  <text x="42" y="204" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="19">Planned stack: Python  /  DuckDB  /  pandas</text>
+  <rect x="613" y="51" width="142" height="117" rx="9" fill="#0B1220" stroke="#263449"/>
+  <text x="627" y="75" fill="#38BDF8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1">TO EXPLORE</text>
+  <path d="M627 83h114M627 110h114M627 137h114" stroke="#263449"/>
+  <text x="627" y="101" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="14">TIME</text>
+  <text x="627" y="128" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="14">PRODUCT</text>
+  <text x="627" y="155" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="14">LOCATION</text>
+</svg>
