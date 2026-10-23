@@ -1,72 +1,68 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
-  <img src="assets/hero.svg" alt="Dark banner with a data flow motif and the name Luiz Felipe Piumbini">
+  <img src="assets/hero.svg" alt="Luiz Felipe Piumbini. Analista de QA, SQL e Qualidade de Dados. Desenvolvendo soluções de análise e engenharia de dados com foco em confiabilidade, automação e qualidade.">
 </picture>
 
-# Luiz Felipe Piumbini
+<p align="center">
+  <a href="#sobre-mim">Sobre mim</a> ·
+  <a href="#projetos-em-destaque">Projetos</a> ·
+  <a href="#competências-técnicas">Competências</a> ·
+  <a href="#experiência">Experiência</a> ·
+  <a href="#formação">Formação</a> ·
+  <a href="#contato">Contato</a>
+</p>
 
-**QA Analyst · Data quality and analytics**
+---
 
-I validate systems and data so that decisions start with reliable information.
+### Sobre mim
 
-[Selected work](#selected-work) · [Portfolio](https://luiizfellipee.github.io/) · [Skills](#skills) · [Experience](#experience) · [Education](#education) · [Contact](#contact)
+Formado em Ciência de Dados pela FIAP, atuo como analista de QA com testes de software, SQL e PostgreSQL.<br>Desenvolvo projetos em Dados aplicando minha experiência em validação e integridade das informações.
 
-## About
+---
 
-I work as a QA Analyst, combining system testing with SQL and PostgreSQL checks to investigate behavior and information integrity. I hold a degree in Data Science from FIAP and am building practical work in data analysis. My longer-term goal is to grow into machine learning engineering.
+### Projetos em destaque
 
-## Selected work
+`01` &nbsp; **[auto_vagas](https://github.com/Luiizfellipee/auto_vagas)**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitoramento automatizado de vagas públicas na área de Dados.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>Código e testes publicados</sub>
 
-These repositories show both implemented work and projects still taking shape. Each card states what is available today.
+---
 
-<a href="https://github.com/Luiizfellipee/auto_vagas">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/auto-vagas-mobile.svg">
-    <img src="assets/auto-vagas.svg" alt="auto_vagas: monitors public data job listings, compares snapshots and prepares Discord alerts. Python, GitHub Actions and Discord. Code and tests published.">
-  </picture>
-</a>
+`02` &nbsp; **[BH Traffic Intelligence](https://github.com/Luiizfellipee/BH-traffic-intelligence)**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inventário de fontes públicas sobre sinistros de trânsito em Belo Horizonte.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>M0 em andamento · quatro coleções inventariadas</sub>
 
-**[auto_vagas](https://github.com/Luiizfellipee/auto_vagas)** · A Python monitor for public data job listings, with snapshot comparison, tests and a scheduled GitHub Actions workflow. The repository documents alerts sent to Discord.
+---
 
-<a href="https://github.com/Luiizfellipee/BH-traffic-intelligence">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/bh-traffic-intelligence-mobile.svg">
-    <img src="assets/bh-traffic-intelligence.svg" alt="BH Traffic Intelligence: investigates public traffic accident records in Belo Horizonte. Source inventory documented; Python and SQL are planned. M0 foundation in progress, without a pipeline or dashboard.">
-  </picture>
-</a>
+`03` &nbsp; **[ANP Fuel Prices](https://github.com/Luiizfellipee/anp-fuel-prices)**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exploração inicial dos preços de combustíveis pesquisados pela ANP.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>Notebook e consultas SQL publicados</sub>
 
-**[BH Traffic Intelligence](https://github.com/Luiizfellipee/BH-traffic-intelligence)** · Organizing the sources and data quality questions for an analysis of BHTRANS traffic accident records. Four source collections have been inventoried. The project is in **M0: foundation and inventory**; ingestion, analysis and a dashboard remain planned.
+---
 
-<a href="https://github.com/Luiizfellipee/anp-fuel-prices">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/anp-fuel-prices-mobile.svg">
-    <img src="assets/anp-fuel-prices.svg" alt="ANP Fuel Prices: explores how surveyed fuel prices vary across time, products and locations. Python, DuckDB and pandas are planned. Phase 0 project setup.">
-  </picture>
-</a>
+### Competências técnicas
 
-**[ANP Fuel Prices](https://github.com/Luiizfellipee/anp-fuel-prices)** · Preparing a reproducible exploration of Brazil's surveyed fuel prices by period, product and location. The repository is in **Phase 0: project setup**; data profiling, analysis and a dashboard are future steps.
+<table width="100%">
+  <thead>
+    <tr><th align="left" width="250">Categoria</th><th align="left" width="530">Competências</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Linguagens e bancos</td><td>Python, SQL, PostgreSQL</td></tr>
+    <tr><td>Qualidade</td><td>QA, testes, validação de sistemas e dados</td></tr>
+    <tr><td>Dados</td><td>Análise exploratória; pandas e DuckDB em projetos</td></tr>
+  </tbody>
+</table>
 
-## Skills
+---
 
-- **Quality and validation:** system testing, consistency checks, issue investigation and information integrity.
-- **Data and databases:** SQL, PostgreSQL and Python; data analysis foundations developed through FIAP and portfolio projects.
-- **Project tools:** Git and GitHub. The `auto_vagas` repository includes Python tests and a GitHub Actions workflow.
+### Experiência
 
-## Experience
+Como analista de QA, valido sistemas ERP, investigo inconsistências e confiro registros com SQL e PostgreSQL. Essa prática orienta como documento fontes e verifico suposições nos projetos de Dados.
 
-As a QA Analyst, I validate system behavior and use SQL and PostgreSQL to examine records and check whether information remains consistent across workflows. This practical quality perspective shapes how I approach data projects: document the source, check assumptions and distinguish verified findings from planned work.
+---
 
-## Education
+### Formação
 
-**Degree in Data Science — FIAP.** My academic background supports my move toward data analysis and, over time, machine learning engineering.
+**Graduação: Ciência de Dados — FIAP.** -> Concluída.
 
-<details>
-<summary>Academic recognition</summary>
+**Pós: Inteligência Artificial e Aprendizado de Máquina — PUC Minas.** -> Em andamento.
 
-I was part of the first-place team in the FIAP NEXT Enterprise Challenge for an audio-to-text NPS project, as listed on [my LinkedIn profile](https://www.linkedin.com/in/luiz-felipe-piumbini-366768115/).
+**FIAP NEXT · Enterprise Challenge.** Participei da equipe vencedora do desafio de áudio para texto aplicado a NPS, conforme [registro no meu LinkedIn](https://www.linkedin.com/in/luiz-felipe-piumbini-366768115/).
 
-</details>
+---
 
-## Contact
-
-[Portfolio](https://luiizfellipee.github.io/) · [LinkedIn](https://www.linkedin.com/in/luiz-felipe-piumbini-366768115/) · [GitHub](https://github.com/Luiizfellipee)
+<a name="contato"></a>[GitHub](https://github.com/Luiizfellipee) · [LinkedIn](https://www.linkedin.com/in/luiz-felipe-piumbini-366768115/) · [Portfólio](https://luiizfellipee.github.io/)

@@ -1,15 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="190" viewBox="0 0 340 190" role="img" aria-labelledby="title desc">
-  <title id="title">Luiz Felipe Piumbini</title>
-  <desc id="desc">Dark technology banner with a restrained data flow motif.</desc>
-  <rect width="340" height="190" rx="14" fill="#0B1220"/>
-  <rect x="1" y="1" width="338" height="188" rx="13" fill="none" stroke="#263449" stroke-width="2"/>
-  <path d="M0 0h7v190H0z" fill="#2DD4BF"/>
-  <path d="M22 148h290" stroke="#263449" stroke-width="1"/>
-  <path d="M242 40l26-12 25 12 26-22" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="268" cy="28" r="3" fill="#2DD4BF"/>
-  <circle cx="293" cy="40" r="3" fill="#2DD4BF"/>
-  <text x="22" y="35" fill="#2DD4BF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">QA / DATA / SYSTEMS</text>
-  <text x="20" y="83" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">Luiz Felipe</text>
-  <text x="20" y="120" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">Piumbini</text>
-  <text x="22" y="173" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="15">Quality as a foundation for data</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="210" viewBox="0 0 360 210" role="img" aria-labelledby="title desc">
+  <title id="title">Luiz Felipe Piumbini — Analista de QA, SQL e Qualidade de Dados</title>
+  <desc id="desc">Versão compacta do card monocromático para telas estreitas.</desc>
+  <rect width="360" height="210" rx="14" fill="#0B0D0F"/>
+  <rect x="8" y="7" width="344" height="195" rx="12" fill="#151719" stroke="#3B3F43" stroke-width="1.5"/>
+  <text x="20" y="30" fill="#AEB4BB" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing=".4">CIÊNCIA DE DADOS / QUALIDADE DE SOFTWARE</text>
+  <text x="20" y="66" fill="#F5F5F5" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Luiz Felipe Piumbini</text>
+  <text x="20" y="95" fill="#C3C9D0" font-family="Arial, Helvetica, sans-serif" font-size="14">Analista de QA · SQL · Qualidade de Dados</text>
+  <path d="M20 117h320" stroke="#454A4F" stroke-width="1"/>
+  <text x="20" y="143" fill="#E1E4E8" font-family="Arial, Helvetica, sans-serif" font-size="12">Desenvolvendo soluções de análise e engenharia</text>
+  <text x="20" y="161" fill="#E1E4E8" font-family="Arial, Helvetica, sans-serif" font-size="12">de dados com foco em confiabilidade, automação</text>
+  <text x="20" y="179" fill="#E1E4E8" font-family="Arial, Helvetica, sans-serif" font-size="12">e qualidade.</text>
 </svg>
