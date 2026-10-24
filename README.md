@@ -1,36 +1,44 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
-  <img src="assets/hero.svg" alt="Luiz Felipe Piumbini. Analista de QA, SQL e Qualidade de Dados. Desenvolvendo soluções de análise e engenharia de dados com foco em confiabilidade, automação e qualidade.">
-</picture>
+<div align="center">
 
-<p align="center">
-  <a href="#sobre-mim">Sobre mim</a> ·
-  <a href="#projetos-em-destaque">Projetos</a> ·
-  <a href="#competências-técnicas">Competências</a> ·
-  <a href="#experiência">Experiência</a> ·
-  <a href="#formação">Formação</a> ·
-  <a href="#contato">Contato</a>
-</p>
+# Luiz Felipe Piumbini
+
+**Ciência de Dados · Inteligência Artificial · Machine Learning**
+
+Graduado em Ciência de Dados pela FIAP e cursando pós-graduação em Inteligência Artificial e Aprendizado de Máquina na PUC Minas.
+
+Exploro dados públicos com Python e SQL, com atenção à qualidade, à documentação e aos limites de cada análise.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+[Sobre mim](#sobre-mim) ·
+[Projetos](#projetos-em-destaque) ·
+[Competências](#competências-técnicas) ·
+[Experiência](#experiência) ·
+[Formação](#formação) ·
+[Contato](#contato)
+
+</div>
 
 ---
 
 ### Sobre mim
 
-Formado em Ciência de Dados pela FIAP, atuo como analista de QA com testes de software, SQL e PostgreSQL.<br>Desenvolvo projetos em Dados aplicando minha experiência em validação e integridade das informações.
+Sou graduado em Ciência de Dados pela FIAP e estudo Inteligência Artificial e Aprendizado de Máquina na PUC Minas. Desenvolvo projetos de análise de dados públicos, da exploração e preparação dos dados às consultas e à documentação dos resultados. Minha experiência em QA contribui para verificar a qualidade das fontes e tornar as análises mais confiáveis.
 
 ---
 
 ### Projetos em destaque
 
-`01` &nbsp; **[auto_vagas](https://github.com/Luiizfellipee/auto_vagas)**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitoramento automatizado de vagas públicas na área de Dados.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>Código e testes publicados</sub>
+`01` &nbsp; **[ES Fuel Intelligence](https://github.com/Luiizfellipee/ES-fuel-intelligence)**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Análise dos preços de combustíveis no Espírito Santo com dados públicos da ANP.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>Exploração em Python e consultas SQL com DuckDB</sub>
 
 ---
 
-`02` &nbsp; **[BH Traffic Intelligence](https://github.com/Luiizfellipee/BH-traffic-intelligence)**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inventário de fontes públicas sobre sinistros de trânsito em Belo Horizonte.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>M0 em andamento · quatro coleções inventariadas</sub>
-
----
-
-`03` &nbsp; **[ANP Fuel Prices](https://github.com/Luiizfellipee/anp-fuel-prices)**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exploração inicial dos preços de combustíveis pesquisados pela ANP.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>Notebook e consultas SQL publicados</sub>
+`02` &nbsp; **[BH Traffic Intelligence](https://github.com/Luiizfellipee/BH-traffic-intelligence)**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Investigação de dados públicos sobre sinistros de trânsito com vítimas em Belo Horizonte.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>Em desenvolvimento · inventário de fontes BHTRANS documentado</sub>
 
 ---
 
@@ -41,9 +49,9 @@ Formado em Ciência de Dados pela FIAP, atuo como analista de QA com testes de s
     <tr><th align="left" width="250">Categoria</th><th align="left" width="530">Competências</th></tr>
   </thead>
   <tbody>
-    <tr><td>Linguagens e bancos</td><td>Python, SQL, PostgreSQL</td></tr>
-    <tr><td>Qualidade</td><td>QA, testes, validação de sistemas e dados</td></tr>
-    <tr><td>Dados</td><td>Análise exploratória; pandas e DuckDB em projetos</td></tr>
+    <tr><td>Dados e análise</td><td>Python, pandas, Jupyter, SQL e DuckDB; análise exploratória e documentação de fontes</td></tr>
+    <tr><td>Bancos e qualidade</td><td>PostgreSQL, validação de dados, testes e investigação de inconsistências</td></tr>
+    <tr><td>Em formação</td><td>Inteligência Artificial e Machine Learning</td></tr>
   </tbody>
 </table>
 
@@ -51,15 +59,15 @@ Formado em Ciência de Dados pela FIAP, atuo como analista de QA com testes de s
 
 ### Experiência
 
-Como analista de QA, valido sistemas ERP, investigo inconsistências e confiro registros com SQL e PostgreSQL. Essa prática orienta como documento fontes e verifico suposições nos projetos de Dados.
+Atuo como analista de QA, validando sistemas ERP e investigando inconsistências com SQL e PostgreSQL. Aplico esse cuidado com a qualidade e a rastreabilidade nos meus projetos de dados.
 
 ---
 
 ### Formação
 
-**Graduação: Ciência de Dados — FIAP.** -> Concluída.
+**Graduação em Ciência de Dados — FIAP.** Concluída.
 
-**Pós: Inteligência Artificial e Aprendizado de Máquina — PUC Minas.** -> Em andamento.
+**Pós-graduação em Inteligência Artificial e Aprendizado de Máquina — PUC Minas.** Em andamento.
 
 **FIAP NEXT · Enterprise Challenge.** Participei da equipe vencedora do desafio de áudio para texto aplicado a NPS, conforme [registro no meu LinkedIn](https://www.linkedin.com/in/luiz-felipe-piumbini-366768115/).
 
